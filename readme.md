@@ -67,4 +67,4 @@ O servidor estará rodando em `http://localhost:3000`.
 
 ## Licença
 
-Este projeto está licenciado sob a licença ISC.
+Este projeto está licenciado sob a licença MIT.
